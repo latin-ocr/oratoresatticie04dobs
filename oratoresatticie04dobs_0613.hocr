@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie04dobs/oratoresatticie04dobs_0613.png"; bbox 0 0 1981 3255; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 524 1251 1372 1293">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 1251 1372 1293">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 1251 1372 1293; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 524 1251 1085 1293; x_wconf 85' lang='lat' dir='ltr'><strong>CONSECRATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1131 1251 1372 1293; x_wconf 83' lang='lat' dir='ltr'><strong>SAEPTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 584 1455 1299 1548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 584 1455 1299 1548">
+     <span class='ocr_line' id='line_1_2' title="bbox 584 1455 1299 1548; baseline 0.003 -10"><span class='ocrx_word' id='word_1_3' title='bbox 584 1491 857 1539; x_wconf 87' lang='lat' dir='ltr'><strong>PAGUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 906 1455 1299 1548; x_wconf 34' lang='lat' dir='ltr'>&#39;TRIOPIUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 748 1629 1132 1668">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 748 1629 1132 1668">
+     <span class='ocr_line' id='line_1_3' title="bbox 748 1629 1132 1668; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 748 1630 810 1667; x_wconf 93' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_6' title='bbox 855 1629 1132 1668; x_wconf 83' lang='lat' dir='ltr'><strong>PRAEDIIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 372 1752 1512 1808">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 372 1752 1512 1808">
+     <span class='ocr_line' id='line_1_4' title="bbox 372 1752 1512 1808; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 372 1752 947 1806; x_wconf 89' lang='lat' dir='ltr'><strong>HERODIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1055 1754 1512 1808; x_wconf 86' lang='lat' dir='ltr'><strong>ATTICI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
